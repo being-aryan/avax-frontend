@@ -63,8 +63,8 @@ Then, import one of the generated accounts from the Hardhat node into MetaMask u
 
 ## Common Issues
 
-- **Error: "Internal JSON-RPC error"**: Ensure that your MetaMask is connected to the correct network and the contract address is correct.
 - **Dependencies Not Installed**: Make sure you run `npm install` inside the project directory.
+- **Error: "Internal JSON-RPC error"**: Ensure that your MetaMask is connected to the correct network and the contract address is correct.
 
 ## License
 
