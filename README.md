@@ -1,4 +1,4 @@
-# Smart Contract Management
+# MyToken Interface
 
 This project combines a Next.js front-end with a Hardhat development environment for Ethereum smart contracts.
 
@@ -9,7 +9,7 @@ This project combines a Next.js front-end with a Hardhat development environment
 
 ## Getting Started
 
-### 1. Install Dependencies
+### 1. Install Dependencies in Terminal 1
 
 Inside the project directory, install the required npm packages:
 
@@ -17,7 +17,7 @@ Inside the project directory, install the required npm packages:
 npm install
 ```
 
-### 2. Start the Hardhat Local Node
+### 2. Start the Hardhat Local Node in Terminal 2
 
 Open a new terminal and start the Hardhat local blockchain node:
 
@@ -27,7 +27,7 @@ npx hardhat node
 
 This will start a local Ethereum network for development.
 
-### 3. Deploy the Smart Contracts
+### 3. Deploy the Smart Contracts Terminal 3
 
 In another terminal, deploy the smart contracts to the local network:
 
@@ -65,7 +65,8 @@ Then, import one of the generated accounts from the Hardhat node into MetaMask u
 
 - **Dependencies Not Installed**: Make sure you run `npm install` inside the project directory.
 - **Error: "Internal JSON-RPC error"**: Ensure that your MetaMask is connected to the correct network and the contract address is correct.
-
+## Authors
+aryan09
 ## License
 
 [MIT License](./LICENSE)
