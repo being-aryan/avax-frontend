@@ -118,7 +118,7 @@ export default function HomePage() {
   return (
     <main className="container">
       <header>
-        <h1>My ERC20 Token Interface</h1>
+        <h1>MyToken Interface</h1>
       </header>
       <div className="account-info">
         {!account ? (
@@ -156,7 +156,7 @@ export default function HomePage() {
           align-items: center;
         }
         header {
-          background-color: #4caf50;
+          background-color: #5d3a1a;
           padding: 20px;
           border-radius: 10px;
           margin-bottom: 20px;
