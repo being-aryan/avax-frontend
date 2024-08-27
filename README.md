@@ -54,9 +54,9 @@ To interact with the deployed contracts, you need to connect MetaMask to the loc
 1. Open MetaMask and click on the network dropdown at the top.
 2. Select "Custom RPC".
 3. Enter the following details:
-    - **Network Name**: Localhost 8545
-    - **New RPC URL**: http://localhost:8545
-    - **Chain ID**: 1337 (default Hardhat network ID)
+    - **Network Name**: Localhost 3000
+    - **New RPC URL**: http://localhost:3000
+    - **Chain ID**: 1335 (default Hardhat network ID)
 4. Save the network.
 
 Then, import one of the generated accounts from the Hardhat node into MetaMask using the private keys displayed in the Hardhat terminal.
